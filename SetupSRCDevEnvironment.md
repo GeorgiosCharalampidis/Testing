@@ -52,7 +52,7 @@
 2. **Navigate to Your Linux User Directory from Windows Explorer.**
 
 3. **Copy Files to Windows Desktop:**
-   - Copy `OpenJDK8U` and `eclipse-inst-jre-win64.exe` to your Windows Desktop.
+   - Copy `OpenJDK8U-jdk_x64_windows_hotspot_8u402b06.msi` and `eclipse-inst-jre-win64.exe` to your Windows Desktop.
 
 4. **Install JDK:**
    - Run `OpenJDK8U-jdk_x64_windows_hotspot_8u402b06.msi` with administrative privileges.
