@@ -5,11 +5,7 @@
 1. **Get Administrative Privileges:**
    - Use `latool` to obtain administrative privileges.
 
-2. **Enable Windows Subsystem for Linux:**
-   - Navigate to **Turn Windows Features On and Off**.
-   - Enable **Windows Subsystem for Linux**.
-
-3. **Install Ubuntu:**
+2. **Install Ubuntu:**
    - Open Windows PowerShell as an administrator.
    - Run the following command to install Ubuntu:
      ```bash
